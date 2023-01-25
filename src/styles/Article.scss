@@ -1,0 +1,56 @@
+.article {
+  &__image {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    object-position: 50%;
+  }
+
+  &__box {
+    position: relative;
+    transform: translateY(-200px);
+    max-width: 1290px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 35px 75px 50px;
+    background: #FFFFFF;
+    border: 1px solid #EAEAEA;
+    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+  }
+
+  &__title {
+    width: fit-content;
+    margin: 0 auto 50px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #363636;
+  }
+
+  &__description {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #000000;
+  }
+
+  &__return {
+    display: flex;
+    margin-left: 20%;
+    transform: translateY(-100px);
+    transition: margin 0.2s linear;
+
+    &:hover {
+      margin-left: 19.5%;
+    }
+  }
+
+  &__go-back {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    color: #363636;
+  }
+}

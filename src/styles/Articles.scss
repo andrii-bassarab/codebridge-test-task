@@ -1,0 +1,24 @@
+.articles {
+  margin-top: 40px;
+
+  &__container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 400px);
+    gap: 45px;
+    justify-content: center;
+  }
+
+  &__count {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #363636;
+  }
+
+  &__underline {
+    margin: 5px 0 45px;
+    height: 1px;
+    background-color: #EAEAEA;
+    border-radius: 3px;
+  }
+}
