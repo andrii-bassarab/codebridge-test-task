@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/codebridge-test-task/static/css/main.75fe1800.css",
-    "main.js": "/codebridge-test-task/static/js/main.6e28a829.js",
+    "main.css": "/codebridge-test-task/static/css/main.3e563641.css",
+    "main.js": "/codebridge-test-task/static/js/main.f52316fc.js",
     "static/media/roboto-all-500-normal.woff": "/codebridge-test-task/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/codebridge-test-task/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
     "static/media/roboto-all-400-normal.woff": "/codebridge-test-task/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
@@ -35,11 +35,11 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "/codebridge-test-task/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "/codebridge-test-task/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/codebridge-test-task/index.html",
-    "main.75fe1800.css.map": "/codebridge-test-task/static/css/main.75fe1800.css.map",
-    "main.6e28a829.js.map": "/codebridge-test-task/static/js/main.6e28a829.js.map"
+    "main.3e563641.css.map": "/codebridge-test-task/static/css/main.3e563641.css.map",
+    "main.f52316fc.js.map": "/codebridge-test-task/static/js/main.f52316fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.75fe1800.css",
-    "static/js/main.6e28a829.js"
+    "static/css/main.3e563641.css",
+    "static/js/main.f52316fc.js"
   ]
 }
