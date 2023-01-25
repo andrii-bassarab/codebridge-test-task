@@ -48,6 +48,7 @@ export const Card: React.FC<Props> = ({ query, article }) => {
   return (
     <Container
       className="card"
+      id="card"
       sx={{
         width: '400px',
         padding: '0',
